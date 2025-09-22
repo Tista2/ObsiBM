@@ -30,4 +30,51 @@ https://5e.tools/adventure.html#pota,6,monsters
 qu'est-ce qui est protégé au coeur du donjon ?
 - l'artefact qui permet de rentrer en communication avec Tharizdun ?
 - une arme contre Tharizdun ?
+
+l'île est un repaire d'un des 4 cultes élémentaires, qui servait l'un des 4 princes de l'apocalypse.
+il a déjà été anéanti
+
+Ils ont un lien avec un autre temple dans les Orgelets, mais n'ont plus de nouvelles depuis bien longtemps.
+PLOT HOOK : plot hook pour l'aventure des Orgelets, mais avec le dilemme qui commence à naître car les menaces sont nombreuses. 
+
+"Skeen" faisait partie de l'équipage de Sefris.
+Tout ce qu'il souhaite, c'est se venger de son ancienne capitaine. Il aide Meryan avec toutes les informations possibles si elle le lui promet. 
+Il n'a pas bonne réputation et vivra au filet bredouille, mais sera incroyablement loyal à Meryan. il pourra être son acolyte durant les aventures suivantes. 
+il indique à Meryan la localisation du repaire de Sefris, pour aller la chercher au plus vite -> deuxième aventure pour le niveau 2. 
+
 ## Outline 
+
+test de montage pour entrer sur l'île. difficulté du combat évolue
+
+
+### vilains
+- grand vilain : un cultiste, lieutenant du chef des Styes ou de [[Skerrin Courvague]]
+	- accompagné de ses cultistes 
+- autres vilains : mort-vivants sur la plage 
+
+sectaires
+human death cultist lvl 2 p.182
+human death acolyte sbire lvl 1 p.181
+
+mort-vivants sur la plage 
+zombies 264 EV3
+squelettes 262 EV3
+sbires zombies et squelettes 261 (EV3 pour 4)
+
+### dénouement 
+c'est à Meryan de décider comment sera déterminé le sort de cette île. 
+- donnée aux Traditionnalistes, qui pourront y établir un nouveau hub de pêche afin de fournir davantage d'emploi
+- donnée aux Royalistes, afin d'y construire un avant-poste qui pourra garantir la sécurité sur les mers et éviter la réémergence des Princes de la Mer
+
+peu importe qui elle choisit, elle gagne la faveur de la faction en question. 
+
+il y aura des conséquences, peu importe la décision : 
+  - un avant-poste mène à l'augmentation des tensions dans Selmarsh, davantage de manifestations, qui rapproche Selmarsh de la guerre civil, objectif de la Confrérie Ecarlate
+  - un hub de pêche laisse le champ libre aux princes de la mer, qui se développent d'autant plus vite et préparent un assaut fracassant
+
+Il y aura également des conséquences relationnelles.
+en cas d'avant-poste : 
+ - Sanyeth en voudra beaucoup à Meryan, aveuglée par la douleur et le fait que son mari aura moins de travail alors que cela aurait pu être leur chance
+
+en cas de pêche :
+  - 
