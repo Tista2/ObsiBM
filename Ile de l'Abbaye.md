@@ -14,9 +14,8 @@ quelque chose a dû mal se passer, car récemment, les pirates ont mené un assa
 
 ### Idées 
 L'île de l'Abbaye N?EST PAS l'île sur laquelle le capitaine pirate s'est échoué. il n'y a pas de ziggourat sur cette île. 
-elle pourraitêtre l'abbaye d'un ennemi de Tharizdun, une divinité ou un saint qui l'a combattu. dieu de la lumière
 
-en revanche, les clercs pourraient être venus de l'île du ziggourat afin de créer un avant-poste et la protéger. 
+les sectaires sont venus des orgelets pour créer ce repaire du culte élémentaire. plus précisément, ils étaient à la recherche de l'île du ziggourat, mais ne l'ont jamais trouvé. 
 
 les clercs sont de la secte de Tharizdun. 
 
